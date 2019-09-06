@@ -1,5 +1,5 @@
 #!/bin/bash
-# declare STRING variable
+# declare STRING variable 123
 STRING="Hello World"
 #print variable on a screen
 echo $STRING
